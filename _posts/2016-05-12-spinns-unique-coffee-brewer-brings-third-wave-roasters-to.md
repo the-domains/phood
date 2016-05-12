@@ -24,13 +24,13 @@ description: "There's no shortage of ways to get a satisfactory caffeine fix the
 inLanguage: en
 app_links:
   - path: http/techcrunch.com/2016/05/09/spinns-unique-coffee-brewer-brings-third-wave-roasters-to-your-countertop/
-    type: android
-    namespace: google
     package: com.aol.mobile.techcrunch
+    namespace: google
+    type: android
 isBasedOnUrl: 'http://techcrunch.com/2016/05/09/spinns-unique-coffee-brewer-brings-third-wave-roasters-to-your-countertop/?utm_medium=email&utm_source=flipboard'
 title: "Spinn's unique coffee brewer brings 'third wave' roasters to your countertop"
-datePublished: '2016-05-12T18:23:43.160Z'
-dateModified: '2016-05-12T18:22:44.192Z'
+datePublished: '2016-05-12T18:50:31.996Z'
+dateModified: '2016-05-12T18:48:12.843Z'
 starred: false
 sourcePath: _posts/2016-05-12-spinns-unique-coffee-brewer-brings-third-wave-roasters-to.md
 inFeed: true

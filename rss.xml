@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Phood]]></title>
         <description><![CDATA[Phood]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phood/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 16:55:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 17:04:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phood/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One-Pan Spaghetti and Meatballs]]></title>
+            <description><![CDATA[<article><h1>One-Pan Spaghetti and Meatballs</h1><p>Start to Finish: 50 minutes Ingredients 1 pound ground beef 1½ teaspoons garlic powder ½ cup chopped fresh parsley ⅓ cup grated Parmesan cheese 1 egg, whisked ½ cup plain bread crumbs 3 tablespoons extra-virgin olive oil 1 pound dried spaghetti 3 cups marinara sauce (store-bought or homemade) 2 tablespoons grated Parmesan cheese, plus more to taste 2 tablespoons chopped fresh parsley Directions 1.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75141362ad4b7abdbe78a2f9f2e3615b1da060c1.png"></article>]]></description>
+            <link>http://www.purewow.com/recipes/one-pan-spaghetti-and-meatballs-recipe?utm_medium=email&amp;utm_source=recipe&amp;utm_campaign=One_Pan_Spaghetti_and_Meatballs_2016_05_09_b&amp;utm_content=Recipe_editorial</link>
+            <guid isPermaLink="false">85546323-1125-4381-add4-6a067f106198</guid>
+            <pubDate>Thu, 12 May 2016 17:03:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anthony Bourdain Thinks You're Crazy for Eating Airplane Food - Bon Appétit]]></title>
             <description><![CDATA[<article><h1>Anthony Bourdain Thinks You're Crazy for Eating Airplane Food - Bon Appétit</h1><p>There's nothing Anthony Bourdain won't eat-still-beating cobra heart in Ho Chi Minh City, seal eyeballs in Quebec-but there's one place you won't see him eating: on a plane. We talked to the host of CNN's Parts Unknown about this and other rules for for the road, plus a few of his favorite meals both abroad (spicy noodles, always) and at home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3b3b24c89f66ed92494c35b936e9dad10b6400c.jpg"></article>]]></description>
